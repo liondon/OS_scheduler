@@ -1,0 +1,12 @@
+92_lab2_assign.tar.Z
+/lab2_assign
+/testdata
+test.*
+
+/.vagrant
+ubuntu-bionic-18.04-cloudimg-console.log
+/.vscode
+
+*.exe
+*.zip
+
