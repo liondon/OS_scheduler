@@ -1,0 +1,117 @@
+diff -b -B ../profout//out_1_9_F ../studout/lih238//out_1_9_F failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_2_9_F ../studout/lih238//out_2_9_F failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_3_9_F ../studout/lih238//out_3_9_F failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_1_9_L ../studout/lih238//out_1_9_L failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_2_9_L ../studout/lih238//out_2_9_L failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_3_9_L ../studout/lih238//out_3_9_L failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_1_9_S ../studout/lih238//out_1_9_S failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_2_9_S ../studout/lih238//out_2_9_S failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_3_9_S ../studout/lih238//out_3_9_S failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_1_9_R2 ../studout/lih238//out_1_9_R2 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_2_9_R2 ../studout/lih238//out_2_9_R2 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_3_9_R2 ../studout/lih238//out_3_9_R2 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_1_9_R5 ../studout/lih238//out_1_9_R5 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_2_9_R5 ../studout/lih238//out_2_9_R5 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_3_9_R5 ../studout/lih238//out_3_9_R5 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_1_9_R10 ../studout/lih238//out_1_9_R10 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_2_9_R10 ../studout/lih238//out_2_9_R10 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_3_9_R10 ../studout/lih238//out_3_9_R10 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_1_9_P1:6 ../studout/lih238//out_1_9_P1:6 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_2_9_P1:6 ../studout/lih238//out_2_9_P1:6 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_3_9_P1:6 ../studout/lih238//out_3_9_P1:6 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_1_9_P2 ../studout/lih238//out_1_9_P2 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_2_9_P2 ../studout/lih238//out_2_9_P2 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_3_9_P2 ../studout/lih238//out_3_9_P2 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_1_9_P3 ../studout/lih238//out_1_9_P3 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_2_9_P3 ../studout/lih238//out_2_9_P3 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_3_9_P3 ../studout/lih238//out_3_9_P3 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_1_9_P4 ../studout/lih238//out_1_9_P4 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_2_9_P4 ../studout/lih238//out_2_9_P4 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_3_9_P4 ../studout/lih238//out_3_9_P4 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_1_9_E2:5 ../studout/lih238//out_1_9_E2:5 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_2_9_E2:5 ../studout/lih238//out_2_9_E2:5 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_3_9_E2:5 ../studout/lih238//out_3_9_E2:5 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_1_9_E4 ../studout/lih238//out_1_9_E4 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_2_9_E4 ../studout/lih238//out_2_9_E4 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_3_9_E4 ../studout/lih238//out_3_9_E4 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_1_9_E8:3 ../studout/lih238//out_1_9_E8:3 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_2_9_E8:3 ../studout/lih238//out_2_9_E8:3 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
+diff -b -B ../profout//out_3_9_E8:3 ../studout/lih238//out_3_9_E8:3 failed
+DIR1-SUM ==> SUM: 1 100.00 0.00 1.00 0.00 100.000
+DIR2-SUM ==> SUM: 0 -nan -nan 0.00 0.00 inf
